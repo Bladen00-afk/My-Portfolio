@@ -3,8 +3,6 @@ background-color: lime;
 }
 
 .slide-down {
-color: red;
-font-size: 80px;
 animation: slideDown 1.5s ease-out;
 }
  
