@@ -3,7 +3,7 @@ background-color: tan;
   margin : 0;
   padding: 0;
 }
-@keyframes fadeIn {
+@keyframes fade-in {
   opacity: 0;
 }
 to {
