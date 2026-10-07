@@ -5,12 +5,12 @@ background-color: lime;
 .slide-down {
 color: red;
 font-size: 80px;
-animation: slideDown 3s ease-out;
+animation: slideDown 10s ease-out;
 }
  
 @keyframes slideDown {
 from {
-transform: translateY(-500px);
+transform: translateY(-1000px);
   opacity: 0;
 }
  
