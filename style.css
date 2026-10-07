@@ -1,11 +1,11 @@
 body {
-background-color: lime;
+background-color: tan;
   margin : 0;
   padding: 0;
 }
 
 .slide-down {
-animation: slideDown 1.5s ease-out forwards;
+animation: slideDown 1.5s ease-out;
 }
  
 @keyframes slideDown {
