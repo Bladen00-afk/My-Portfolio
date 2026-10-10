@@ -2,11 +2,14 @@ body {
 background-color: tan;
   margin : 0;
   padding: 0;
-}
-.nav-link {
-  trasition:0.3s;
-}
-.nav-link:hover {
-  transform:scale(1.1);
-}
   
+.nav-link {
+    padding: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: cyan;
+    transform: scale(1.1);
+}
