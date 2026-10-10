@@ -3,15 +3,10 @@ background-color: tan;
   margin : 0;
   padding: 0;
 }
-@keyframes fade-in {
-  opacity: 0;
+.nav-link {
+  trasition:0.3s;
 }
-to {
-  opacity: 1;
-}
- }
-.fade-in {
-  opacity: 0;
-  animation: fadeIn 1.5s ease-in forwards;
+.nav-link:hover {
+  transform:scale(1.1);
 }
   
