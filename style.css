@@ -23,13 +23,13 @@ background-color: tan;
   color : yellow
 }
 
-.projects {
+.project {
     padding: 10px;
     text-decoration: none;
     transition: 0.3s;
 }
 
-.projects:hover {
+.project:hover {
     color: green;
     transform: scale(1.1);
 }
